@@ -31,6 +31,7 @@ shareCodes = ["c081c648576e4e61a9697c3981705826",
               "3b2e1bee164249bca099b60d7e4b0082",  # wuli01
               "6447c9c61b0c4f9a89b6d497fcaf47c9",  # wuli01
               "e4ab3f1c4add4513b07ee88b9c9f7784",  # heros-sky
+              "bd935309693941f8bc369347fccfce0d",  # littleip
               ]  # 欢迎在此处填写
 
 
